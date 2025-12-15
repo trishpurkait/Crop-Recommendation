@@ -15,7 +15,6 @@ An intelligent ML-powered web application that recommends the top 5 most suitabl
 - 🧪 **7 Input Parameters** - Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, Rainfall
 - 📱 **Responsive Design** - Works seamlessly on all devices
 - 🎨 **Modern UI** - Clean, agricultural-themed interface with Bootstrap 5
-- ☁️ **Cloud Deployed** - Live on Render.com for easy access
 
 ## 🌱 Supported Crops (22 Types)
 
@@ -146,24 +145,6 @@ The Random Forest model was trained with:
 - SVM: 98.18%
 - KNN: 97.78%
 
-## 🌐 Deployment
-
-The application is deployed on Render.com:
-- **Live URL**: [https://crop-recommendation-system-b5p9.onrender.com](https://crop-recommendation-system-b5p9.onrender.com)
-- **Platform**: Render.com (Free Tier)
-- **Auto-scaling**: Enabled
-- **CI/CD**: GitHub integration
-
-### Deploy Your Own Instance:
-
-1. Fork this repository
-2. Create account on [Render.com](https://render.com)
-3. Create new Web Service
-4. Connect your GitHub repository
-5. Set build command: `pip install -r requirements.txt`
-6. Set start command: `python app.py`
-7. Deploy! 🚀
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -213,10 +194,6 @@ This Crop Recommendation System is part of **Krishi Sohayak** (Agricultural Assi
 - **No Missing Values**: Complete dataset
 - **No Duplicates**: Clean data
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Author
 
 **Trish Purkait**
@@ -228,7 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Agricultural dataset contributors
 - scikit-learn team for ML framework
 - Bootstrap team for UI framework
-- Render.com for hosting platform
 - All farmers who inspire this work
 
 ## 📞 Support
