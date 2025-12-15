@@ -220,7 +220,6 @@ For questions, issues, or suggestions:
 - 🌾 **Crops Supported**: 22
 - 📊 **Dataset Size**: 2,200 samples
 - 🎯 **Parameters**: 7 features
-- 🚀 **Deployment**: Live on Render.com
 
 ## ⭐ Show Your Support
 
