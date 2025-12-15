@@ -6,7 +6,6 @@ An intelligent ML-powered web application that recommends the top 5 most suitabl
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 ![Accuracy](https://img.shields.io/badge/Accuracy-99.5%25-brightgreen.svg)
-![Live](https://img.shields.io/badge/Live-Deployed-success.svg)
 
 ## 🎯 Features
 
